@@ -1,6 +1,6 @@
 def rem(1,word):
     for item in l:
         l.remove(word)
-        returnl
+        return l
  l=["harry","rohan","shubham","an"]
 print(l,"a")       
